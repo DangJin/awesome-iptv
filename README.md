@@ -1,6 +1,22 @@
 # iptv_m3u8
 180+高清频道，含国内以及国际频道
 
+![image](https://github.com/DangJin/iptv_m3u8/assets/16586370/7594b35c-0685-4021-a2dd-56fbe783b527)
+
+
+## 如何使用
+如果你已经安装了以下软件，则可直接使用m3u地址：
+
+|平台|播放软件|
+|---|---|
+|安卓|超级直播，TiviMate，Televizo，IPTV Pro，Perfect Player|
+|IOS|nPlayer，Flex IPTV，APTV|
+|Mac|APTV，IINA|
+|Apple TV|APTV，Fileball|
+
+当然如果你的播放器不支持m3u，你可以复制下面任何一个m3u8在[vlc](https://get.videolan.org/)里复制播放
+
+
 ## 央视频道
 |title|m3u8|
 |---|---|
