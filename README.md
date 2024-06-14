@@ -5,7 +5,7 @@
 
 
 ## 如何使用
-如果你已经安装了以下软件，则可直接使用m3u地址：
+如果你已经安装了以下软件，则可直接使用IPTV在线订阅地址 [https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u](https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u)
 
 |平台|播放软件|
 |---|---|
