@@ -1,4 +1,4 @@
-# iptv_m3u
+# awesome-iptv
 180+高清频道，含国内以及国际频道
 > 本仓库iptv.m3u来自于[YueChan 大神](https://github.com/YueChan/Live), 我基于原创内容进行了优化：</br>1. 整理了在不同平台如何安装使用</br>2.将央视频道、地方卫视、国际频道的m3u8地址单独提取展示，便于大家快速使用
 
