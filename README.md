@@ -1,7 +1,7 @@
 # iptv_m3u
 180+高清频道，含国内以及国际频道
 
-![image](https://github.com/DangJin/iptv_m3u8/assets/16586370/7594b35c-0685-4021-a2dd-56fbe783b527)
+![image](https://telegraph-image.pages.dev/file/a162907ae772d3bd896b9.png)
 
 
 ## 如何使用
