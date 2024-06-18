@@ -7,7 +7,7 @@
 
 ## 如何使用
 1. 使用前请务必确保你的网络已接入ipv6（[点击检测是否已接入ipv6](https://ipcheck.ing/)）
-2. 下载以下软件并安装，安装后直接使用IPTV在线订阅地址 [https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u](https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u) （该源来自：[YueChan](https://github.com/YueChan/Live)）,当然如果你的播放器不支持m3u，你可以复制下面任何一个m3u8在[VLC](https://get.videolan.org/)里复制播放
+2. 下载以下软件并安装，安装后直接使用IPTV在线订阅地址 `https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u` （该源来自：[YueChan](https://github.com/YueChan/Live)）;当然如果你的播放器不支持m3u，你可以复制下面任何一个m3u8在[VLC](https://get.videolan.org/)里复制播放
 
 |平台|播放软件|
 |---|---|
