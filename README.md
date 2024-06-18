@@ -94,3 +94,7 @@
 |甘肃卫视|http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8|
 |青海卫视|http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8|
 |宁夏卫视|https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8|
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-iptv&type=Date)](https://star-history.com/#DangJin/awesome-iptv&Date)
