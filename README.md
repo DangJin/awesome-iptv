@@ -1,12 +1,11 @@
 # awesome-iptv
-180+高清频道，含国内以及国际频道
-> 本仓库iptv.m3u来自于[YueChan 大神](https://github.com/YueChan/Live), 我基于原创内容进行了优化：</br>1. 整理了在不同平台如何安装使用</br>2.将央视频道、地方卫视、国际频道的m3u8地址单独提取展示，便于大家快速使用
+
+汇总了一些可用的网络电视频道（IPTV）集合的优秀项目
 
 ![image](https://telegraph-image.pages.dev/file/fc186bf308143207536e4.png)
 
-
 ## 如何使用
-如果你已经安装了以下软件，则可直接使用IPTV在线订阅地址 [https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u](https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u)
+使用前请务必确保你的网络已接入ipv6（[点击检测是否已接入ipv6](https://ipcheck.ing/)）如果你已经安装了以下软件，则可直接使用IPTV在线订阅地址 [https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u](https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u) （该源来自：[YueChan](https://github.com/YueChan/Live)）,当然如果你的播放器不支持m3u，你可以复制下面任何一个m3u8在[VLC](https://get.videolan.org/)里复制播放
 
 |平台|播放软件|
 |---|---|
@@ -15,10 +14,25 @@
 |Mac|APTV，IINA|
 |Apple TV|APTV，Fileball|
 
-当然如果你的播放器不支持m3u，你可以复制下面任何一个m3u8在[vlc](https://get.videolan.org/)里复制播放
+如若以上未找到你终端的软件，[获取更多终端的app](https://github.com/iptv-org/awesome-iptv?tab=readme-ov-file#apps);
 
+## 注意 ，如若本仓库的playlist失效，请大家按照以下步骤操作：
 
-## 央视频道
+尝试使用playlist(m3u): `https://iptv-org.github.io/iptv/index.m3u`
+
+如若依然不行，请按照以下方式操作：
+
+- 方式1： 访问 [iptv-org](https://iptv-org.github.io)，在此可以在在线检索，如下图
+
+![iptv-org.github.io](https://telegraph-image.pages.dev/file/01af264bbafb29d1c4522.png)
+
+- 方式2：通过github的这个topic获取其他iptv的项目：[iptv](https://github.com/topics/iptv)
+
+![iptv-topic](https://telegraph-image.pages.dev/file/1d8547c81810f91bcf24d.png)
+
+## 常用频道
+
+### 央视频道
 |title|m3u8|
 |---|---|
 |CCTV1|http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8|
@@ -50,7 +64,7 @@
 |央视高网|http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2|
 |文化精品|http://mail.petzhu.top:7000/rtp/239.254.201.229:7260|
 
-## 地方卫视
+### 地方卫视
 |title|m3u8|
 |---|---|
 |北京卫视|http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8|
@@ -80,39 +94,3 @@
 |甘肃卫视|http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8|
 |青海卫视|http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8|
 |宁夏卫视|https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8|
-
-## 国际频道
-
-|title|m3u8|
-|---|---|
-|CNN|https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8|
-|BBC|https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8|
-|CNA|https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8|
-|NBC News Now|https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8|
-|Sky News|https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8|
-|Wion News|https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8|
-|AXS TV Now|https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8|
-|Newsmax|http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8|
-|Dubai One|http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8|
-|Al Jazeera|http://live-hls-web-aje.getaj.net/AJE/01.m3u8|
-|Arirang|https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8|
-|Bloomberg Asia|https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8|
-|Bloomberg Originals|https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8|
-|CBN News|https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8|
-|GB News|https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8|
-|RT News|https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8|
-|RT Documentary|https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8|
-|Taiwan Plus|https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8|
-|ION Plus|https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8|
-|ION|https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8|
-|Love Nature|https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8|
-|Fashion TV|http://91.247.68.229:8000/play/Fashion/index.m3u8|
-|Fight Network|https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8|
-|Wild Earth|https://wildearth-plex.amagi.tv/masterR1080p.m3u8|
-|Wild Planet|https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8|
-|Clarity 4K|https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8|
-|Stadium|https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8|
-|Trace Sports|https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8|
-|Pop|http://streamsy.online:2999/coachj88/N93DPKS9pJ/226|
-|Tastemade|https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8|
-|MovieSphere|https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8|
