@@ -26,11 +26,11 @@
 
 - 方式1： 访问 [iptv-org](https://iptv-org.github.io)，在此可以在在线检索，如下图
 
-![iptv-org.github.io](https://telegraph-image.pages.dev/file/01af264bbafb29d1c4522.png)
+![iptv-org.github.io](https://telegraph-image.pages.dev/file/0ef9a28109e0896a81248.png)
 
 - 方式2：通过github的这个topic获取其他iptv的项目：[iptv](https://github.com/topics/iptv)
 
-![iptv-topic](https://telegraph-image.pages.dev/file/1d8547c81810f91bcf24d.png)
+![iptv-topic](https://telegraph-image.pages.dev/file/0832fcd7a57081989010f.png)
 
 ## 常用频道
 
