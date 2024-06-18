@@ -3,7 +3,7 @@
 
 汇总了一些可用的网络电视频道（IPTV）集合的优秀项目
 
-![image](https://telegraph-image.pages.dev/file/fc186bf308143207536e4.png)
+![image](https://telegraph-image.pages.dev/file/490218b200fac17403555.png)
 
 ## 如何使用
 使用前请务必确保你的网络已接入ipv6（[点击检测是否已接入ipv6](https://ipcheck.ing/)）如果你已经安装了以下软件，则可直接使用IPTV在线订阅地址 [https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u](https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u) （该源来自：[YueChan](https://github.com/YueChan/Live)）,当然如果你的播放器不支持m3u，你可以复制下面任何一个m3u8在[VLC](https://get.videolan.org/)里复制播放
