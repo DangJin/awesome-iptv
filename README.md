@@ -3,18 +3,26 @@
 
 <p align="center">汇总了一些可用的网络电视频道（IPTV）集合的优秀项目</p>
 
+</br>
+
 ![image](https://telegraph-image.pages.dev/file/490218b200fac17403555.png)
+
+</br>
 
 ## 如何使用
 1. 使用前请务必确保你的网络已接入ipv6（[点击检测是否已接入ipv6](https://ipcheck.ing/)）
 2. 下载以下软件并安装，安装后直接使用IPTV在线订阅地址 `https://raw.githubusercontent.com/DangJin/iptv_m3u8/main/IPTV.m3u` （该源来自：[YueChan](https://github.com/YueChan/Live)）;当然如果你的播放器不支持m3u，你可以复制下面任何一个m3u8在[VLC](https://get.videolan.org/)里复制播放
 
+<div align="center">
+  
 |平台|播放软件|
 |---|---|
 |安卓|超级直播，TiviMate，Televizo，IPTV Pro，Perfect Player|
 |IOS|nPlayer，Flex IPTV，APTV|
 |Mac|APTV，IINA|
 |Apple TV|APTV，Fileball|
+
+</div>
 
 如若以上未找到你终端的软件，[获取更多终端的app](https://github.com/iptv-org/awesome-iptv?tab=readme-ov-file#apps);
 
@@ -26,15 +34,22 @@
 
 - 方式1： 访问 [iptv-org](https://iptv-org.github.io)，在此可以在在线检索，如下图
 
-![iptv-org.github.io](https://telegraph-image.pages.dev/file/0ef9a28109e0896a81248.png)
+<div align="center">
+  <img src="https://telegraph-image.pages.dev/file/0ef9a28109e0896a81248.png" width="85%" alt="cult-dir-home" />
+</div>
+
 
 - 方式2：通过github的这个topic获取其他iptv的项目：[iptv](https://github.com/topics/iptv)
 
-![iptv-topic](https://telegraph-image.pages.dev/file/0832fcd7a57081989010f.png)
+<div align="center">
+  <img src="https://telegraph-image.pages.dev/file/0832fcd7a57081989010f.png" width="85%" alt="cult-dir-home" />
+</div>
+
 
 ## 常用频道
 
 ### 央视频道
+
 |title|m3u8|
 |---|---|
 |CCTV1|http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8|
@@ -67,6 +82,7 @@
 |文化精品|http://mail.petzhu.top:7000/rtp/239.254.201.229:7260|
 
 ### 地方卫视
+
 |title|m3u8|
 |---|---|
 |北京卫视|http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8|
@@ -100,3 +116,4 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-iptv&type=Date)](https://star-history.com/#DangJin/awesome-iptv&Date)
+
