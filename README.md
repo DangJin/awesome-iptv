@@ -3,6 +3,14 @@
 
 <p align="center">汇总了一些可用的网络电视频道（IPTV）集合的优秀项目</p>
 
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/DangJin/awesome-iptv?style=flat&logo=github)
+![License](https://img.shields.io/github/license/DangJin/awesome-iptv?style=flat)
+[![X ID](https://img.shields.io/badge/X-@JinsFavorites-1DA1F2?logo=twitter&style=flat)](https://twitter.com/JinsFavorites)
+
+</div>
+
 </br>
 
 ![image](https://telegraph-image.pages.dev/file/490218b200fac17403555.png)
