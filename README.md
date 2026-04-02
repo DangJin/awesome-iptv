@@ -53,6 +53,10 @@
   <img src="https://telegraph-image.pages.dev/file/0832fcd7a57081989010f.png" width="85%" alt="cult-dir-home" />
 </div>
 
+## 在线观看（无需下载）
+
+- [Global Free TV](https://www.globalfreetv.com/) - 免费在线观看全球 4000+ 个 IPTV 频道，覆盖 150+ 个国家，无需注册，即开即看
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-iptv&type=Date)](https://star-history.com/#DangJin/awesome-iptv&Date)
